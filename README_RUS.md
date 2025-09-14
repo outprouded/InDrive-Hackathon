@@ -132,3 +132,4 @@
 
 ## Модели и Данные
 [Модели и данные](https://drive.google.com/drive/folders/1NkTYeUsdO1JQlzEhrR2uLWF6Q1MmSdb9?usp=sharing)
+[Данные по поврежденным машинам](https://drive.google.com/drive/folders/1vzkzQ6-6ZQPCHrWP76h7jX_1WCoiN21_?usp=sharing)
