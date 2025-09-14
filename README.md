@@ -133,3 +133,4 @@ For issues or questions, refer to the Streamlit documentation or check the conso
 
 ## Models and Datasets
 [Models and Datasets](https://drive.google.com/drive/folders/1NkTYeUsdO1JQlzEhrR2uLWF6Q1MmSdb9?usp=sharing)
+[Damaged Data](https://drive.google.com/drive/folders/1vzkzQ6-6ZQPCHrWP76h7jX_1WCoiN21_?usp=sharing)
