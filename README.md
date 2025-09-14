@@ -130,3 +130,6 @@ For each image, the results are displayed in two columns:
 
 ## Support
 For issues or questions, refer to the Streamlit documentation or check the console output for detailed error messages. Ensure all dependencies are installed and model weights are correctly configured.
+
+## Models and Datasets
+[Google Drive](https://drive.google.com/drive/folders/1vzkzQ6-6ZQPCHrWP76h7jX_1WCoiN21_?usp=sharing)
