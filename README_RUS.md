@@ -131,4 +131,4 @@
 Для решения проблем или вопросов обратитесь к документации Streamlit или проверьте вывод в консоли для получения подробных сообщений об ошибках. Убедитесь, что все зависимости установлены, а веса моделей правильно настроены.
 
 ## Модели и Данные
-[Модели и данные](https://drive.google.com/drive/folders/1vzkzQ6-6ZQPCHrWP76h7jX_1WCoiN21_?usp=sharing)
+[Модели и данные](https://drive.google.com/drive/folders/1NkTYeUsdO1JQlzEhrR2uLWF6Q1MmSdb9?usp=sharing)
